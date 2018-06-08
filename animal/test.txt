@@ -1,0 +1,10 @@
+animal/JPEGImages/dog29.jpg animal/Annotations/dog29.xml
+animal/JPEGImages/dog30.jpg animal/Annotations/dog30.xml
+animal/JPEGImages/dog7.jpg  animal/Annotations/dog7.xml
+animal/JPEGImages/dog8.jpg  animal/Annotations/dog8.xml
+animal/JPEGImages/dog9.jpg  animal/Annotations/dog9.xml
+animal/JPEGImages/cat29.jpg animal/Annotations/cat29.xml
+animal/JPEGImages/cat2.jpg  animal/Annotations/cat2.xml
+animal/JPEGImages/cat30.jpg animal/Annotations/cat30.xml
+animal/JPEGImages/cat8.jpg  animal/Annotations/cat8.xml
+animal/JPEGImages/cat9.jpg  animal/Annotations/cat9.xml
